@@ -1,38 +1,118 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+/* header */
+.header {
+    position: relative;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    margin-right: 70%;
+    font-size: 12px;
+    padding: 0.1px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.header-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+/* map */
+.leaflet-container {
+    position: absolute;
+    left: 30%;
+    top: 0%;
+    width: 70%;
+    height: 100vh;
+}
+
+
+/* elevation option */
+
+
+.elevationGain-select {
+    position: relative;
+    width: 10%;
+    margin: 1%;
+}
+
+
+/* tolerance input form */
+.tolerance-form {
+    position: relative;
+    margin: 1%;
+    width: 10%;
+}
+
+
+.multiPathOption-select {
+    position: relative;
+    width: 6%;
+    margin: 1%;
+}
+
+
+
+/* text input form */
+.form {
+    position: relative;
+    text-align: left;
+    margin: 1%;
+    width: 28%;
+}
+
+
+
+/* address suggestions */
+.suggestions {
+    position: absolute;
+    z-index: 1000;
+    border: 1px solid rgb(231, 229, 229);
+    border-bottom-left-radius: 0.2rem;
+    border-bottom-right-radius: 0.2rem;
+    list-style: none;
+    margin-top: -0.5%;
+    max-height: 450px;
+    overflow-y: auto;
+    padding-left: 0;
+    background: white;
   }
+  
+.suggestions li {
+    padding: 0.5rem;
+}
+  
+  
+.suggestion-active,
+.suggestions li:hover {
+    background-color: rgb(250, 248, 248);
+    font-weight: 600;
+}
+  
+
+
+/* algorithm option */
+.algorithm-title {
+    position: relative;
+    font-size: 20px;
+    margin: 1%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.algorithm-select {
+    position: relative;
+    width: 10%;
+    margin: 1%;
 }
 
-.App-link {
-  color: #61dafb;
+
+/* search button */
+.search-button-div {
+    position: relative;
+    margin: 1%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
