@@ -14,8 +14,8 @@ import MultiPathOption from './component/MultiPathOption'
 import DraggableMarkerSwitch from './component/DraggableMarkerSwitch'
 
 
-/* const domainName = 'http://elenabackend-env.eba-igpmrsmv.us-east-1.elasticbeanstalk.com' */
-const domainName = 'http://localhost:5000'
+const domainName = 'http://elenabackend-env.eba-scmatqp8.us-east-1.elasticbeanstalk.com'
+/* const domainName = 'http://localhost:5000' */
 
 
 class App extends React.Component {

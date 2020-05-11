@@ -2,6 +2,7 @@
   "name": "elena_fronend",
   "version": "0.1.0",
   "private": true,
+  "hompage": "https://kwyuyu.github.io/Elena-fronend/",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@material-ui/core": "^4.9.13",
@@ -10,6 +11,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "classnames": "^2.2.6",
+    "gh-pages": "^2.2.0",
     "leaflet": "^1.6.0",
     "leaflet-geosearch": "^2.7.0",
     "muicss": "^0.10.2",
@@ -27,6 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
