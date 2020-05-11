@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Elena-fronend/precache-manifest.22dd4e1e21f9fa24b2ec7c078df56b3b.js"
+  "/Elena-fronend/precache-manifest.02841f2f48bd511ee63a66a2529a2628.js"
 );
 
 self.addEventListener('message', (event) => {
