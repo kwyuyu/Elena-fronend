@@ -12,6 +12,7 @@ import ElevationGain from './component/ElevationGain'
 import Tolerance from './component/Tolerance'
 import MultiPathOption from './component/MultiPathOption'
 import DraggableMarkerSwitch from './component/DraggableMarkerSwitch'
+import { BrowserRouter } from 'react-router-dom'
 
 
 const domainName = 'http://elenabackend-env.eba-scmatqp8.us-east-1.elasticbeanstalk.com'
@@ -322,7 +323,7 @@ class App extends React.Component {
 
   	render() {
     	return (
-    		<div className="App">
+    		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			    <Header/>
                 <DraggableMarkerSwitch
                     setSwitchTrigger={this.setSwitchTrigger}
@@ -361,7 +362,7 @@ class App extends React.Component {
                     setTrigger={this.setButtonTrigger}
                     isLoading={this.state.findPathLoading}
 			    />
-      		</div>
+      		</BrowserRouter>
     	);
   	}
 }
