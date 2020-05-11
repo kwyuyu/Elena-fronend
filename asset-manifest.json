@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Elena-fronend/static/css/main.237bc7d5.chunk.css",
-    "main.js": "/Elena-fronend/static/js/main.ad2d2bb9.chunk.js",
-    "main.js.map": "/Elena-fronend/static/js/main.ad2d2bb9.chunk.js.map",
+    "main.js": "/Elena-fronend/static/js/main.2d408097.chunk.js",
+    "main.js.map": "/Elena-fronend/static/js/main.2d408097.chunk.js.map",
     "runtime-main.js": "/Elena-fronend/static/js/runtime-main.1cf57619.js",
     "runtime-main.js.map": "/Elena-fronend/static/js/runtime-main.1cf57619.js.map",
-    "static/js/2.972118db.chunk.js": "/Elena-fronend/static/js/2.972118db.chunk.js",
-    "static/js/2.972118db.chunk.js.map": "/Elena-fronend/static/js/2.972118db.chunk.js.map",
+    "static/js/2.f413d945.chunk.js": "/Elena-fronend/static/js/2.f413d945.chunk.js",
+    "static/js/2.f413d945.chunk.js.map": "/Elena-fronend/static/js/2.f413d945.chunk.js.map",
     "index.html": "/Elena-fronend/index.html",
-    "precache-manifest.02841f2f48bd511ee63a66a2529a2628.js": "/Elena-fronend/precache-manifest.02841f2f48bd511ee63a66a2529a2628.js",
+    "precache-manifest.578fac11100d078ce621b8fb16c6d337.js": "/Elena-fronend/precache-manifest.578fac11100d078ce621b8fb16c6d337.js",
     "service-worker.js": "/Elena-fronend/service-worker.js",
     "static/css/main.237bc7d5.chunk.css.map": "/Elena-fronend/static/css/main.237bc7d5.chunk.css.map",
-    "static/js/2.972118db.chunk.js.LICENSE.txt": "/Elena-fronend/static/js/2.972118db.chunk.js.LICENSE.txt"
+    "static/js/2.f413d945.chunk.js.LICENSE.txt": "/Elena-fronend/static/js/2.f413d945.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1cf57619.js",
-    "static/js/2.972118db.chunk.js",
+    "static/js/2.f413d945.chunk.js",
     "static/css/main.237bc7d5.chunk.css",
-    "static/js/main.ad2d2bb9.chunk.js"
+    "static/js/main.2d408097.chunk.js"
   ]
 }
