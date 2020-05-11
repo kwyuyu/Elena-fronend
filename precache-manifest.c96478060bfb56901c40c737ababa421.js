@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56e64ffd9650ffbf61be9eac09346fb4",
+    "revision": "e0744e7a6538a28c89e48e38571ee3bd",
     "url": "/Elena-fronend/index.html"
   },
   {
-    "revision": "2e44c3797e56f35f1077",
+    "revision": "1fc7879103825c711d61",
     "url": "/Elena-fronend/static/css/main.237bc7d5.chunk.css"
   },
   {
-    "revision": "a422fbbf082993cf64f4",
-    "url": "/Elena-fronend/static/js/2.f413d945.chunk.js"
+    "revision": "85a8123bf8e00fb662c9",
+    "url": "/Elena-fronend/static/js/2.c29f7965.chunk.js"
   },
   {
     "revision": "278be41389e3536a5347a9018737729d",
-    "url": "/Elena-fronend/static/js/2.f413d945.chunk.js.LICENSE.txt"
+    "url": "/Elena-fronend/static/js/2.c29f7965.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e44c3797e56f35f1077",
-    "url": "/Elena-fronend/static/js/main.942e658a.chunk.js"
+    "revision": "1fc7879103825c711d61",
+    "url": "/Elena-fronend/static/js/main.e43cc53b.chunk.js"
   },
   {
     "revision": "28900ef32284b3ccd14b",
