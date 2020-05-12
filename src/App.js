@@ -14,7 +14,7 @@ import MultiPathOption from './component/MultiPathOption'
 import DraggableMarkerSwitch from './component/DraggableMarkerSwitch'
 
 
-const domainName = 'http://elenabackend-env.eba-scmatqp8.us-east-1.elasticbeanstalk.com'
+const domainName = 'https://87giyv9po5.execute-api.us-east-1.amazonaws.com/prod'
 /* const domainName = 'http://localhost:5000' */
 
 

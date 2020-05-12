@@ -2,7 +2,7 @@
   "name": "elena_fronend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kwyuyu.github.io/Elena-fronend/",
+  "homepage": "https://kwyuyu.github.io/Elena-frontend/",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@material-ui/core": "^4.9.13",
