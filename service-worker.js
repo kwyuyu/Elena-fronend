@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Elena-frontend/precache-manifest.02fbf76174933fd7684bfab5b6bfc9f3.js"
+  "/Elena-frontend/precache-manifest.1a4cea75237248cca7f9ce039a9e9dd3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8eb7762f9d32b9b74430e57bd1f13fe5",
+    "revision": "ae96eed975e4c40a8da17d94294458ae",
     "url": "/Elena-frontend/index.html"
   },
   {
-    "revision": "7faf1c2ba977c859e5c7",
+    "revision": "57e6909c644be8a24973",
     "url": "/Elena-frontend/static/css/main.237bc7d5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Elena-frontend/static/js/2.f413d945.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7faf1c2ba977c859e5c7",
-    "url": "/Elena-frontend/static/js/main.8454e5fc.chunk.js"
+    "revision": "57e6909c644be8a24973",
+    "url": "/Elena-frontend/static/js/main.9905938a.chunk.js"
   },
   {
     "revision": "c60ced6a013a5f77bd5c",

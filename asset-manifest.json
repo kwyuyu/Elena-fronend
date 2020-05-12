@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Elena-frontend/static/css/main.237bc7d5.chunk.css",
-    "main.js": "/Elena-frontend/static/js/main.8454e5fc.chunk.js",
-    "main.js.map": "/Elena-frontend/static/js/main.8454e5fc.chunk.js.map",
+    "main.js": "/Elena-frontend/static/js/main.9905938a.chunk.js",
+    "main.js.map": "/Elena-frontend/static/js/main.9905938a.chunk.js.map",
     "runtime-main.js": "/Elena-frontend/static/js/runtime-main.e5efa4b0.js",
     "runtime-main.js.map": "/Elena-frontend/static/js/runtime-main.e5efa4b0.js.map",
     "static/js/2.f413d945.chunk.js": "/Elena-frontend/static/js/2.f413d945.chunk.js",
     "static/js/2.f413d945.chunk.js.map": "/Elena-frontend/static/js/2.f413d945.chunk.js.map",
     "index.html": "/Elena-frontend/index.html",
-    "precache-manifest.02fbf76174933fd7684bfab5b6bfc9f3.js": "/Elena-frontend/precache-manifest.02fbf76174933fd7684bfab5b6bfc9f3.js",
+    "precache-manifest.1a4cea75237248cca7f9ce039a9e9dd3.js": "/Elena-frontend/precache-manifest.1a4cea75237248cca7f9ce039a9e9dd3.js",
     "service-worker.js": "/Elena-frontend/service-worker.js",
     "static/css/main.237bc7d5.chunk.css.map": "/Elena-frontend/static/css/main.237bc7d5.chunk.css.map",
     "static/js/2.f413d945.chunk.js.LICENSE.txt": "/Elena-frontend/static/js/2.f413d945.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e5efa4b0.js",
     "static/js/2.f413d945.chunk.js",
     "static/css/main.237bc7d5.chunk.css",
-    "static/js/main.8454e5fc.chunk.js"
+    "static/js/main.9905938a.chunk.js"
   ]
 }
